@@ -1,1 +1,5 @@
 https://www.youtube.com/watch?v=VT2L1SXFq9U&t=242s
+
+Commands:
+Import-Module -Name Terminal-icons
+Install-Module -Name Terminal-Icons -Repository PSGallery
