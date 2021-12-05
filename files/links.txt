@@ -1,3 +1,12 @@
+The ohmyposhv3.json file will go into the $profile in powershell...
+
+eg:
+------------------------------------------------
+oh-my-posh --init --shell pwsh --config "D:\github\prompt\files\ohmyposhv3.json" | Invoke-Expression
+Import-Module -Name Terminal-Icons
+------------------------------------------------
+
+
 https://www.youtube.com/watch?v=VT2L1SXFq9U&t=242s
 
 Commands:
